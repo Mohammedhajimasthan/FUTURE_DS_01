@@ -25,9 +25,6 @@ This project analyzes business sales data to identify revenue trends, top-perfor
 - Expand strategies in underperforming regions.
 - Address declining sales with targeted strategies.
 
-## 📸 Dashboard Preview
-(Add your screenshots here)
-
 ## 📁 Project Structure
 - data/ → Dataset used
 - dashboard/ → Power BI file
